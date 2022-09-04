@@ -1,0 +1,99 @@
+body{
+    margin: 20px;
+   padding: 20px;
+   background-size: cover;
+   background-image: url(./img.webp); 
+}
+h1{
+    text-align: center;
+    color: orangered;
+    font-size: 50px;
+    text-shadow: 2px 2px whitesmoke;
+}
+hr{
+    width: 800px;
+    height: 4px;
+    background-color: orangered;
+}
+.card-1{
+    position: relative;
+    left: 380px;
+    margin: 40px;
+    padding: 50px;
+    height: 180px;
+    width: 350px;
+    border-radius: 20px;
+    background-image: url(./img-3.webp);
+    background-size: cover;
+}
+
+
+.input{
+    float: right;
+    width: 180px;
+    height: 25px;
+    border-radius: 20px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bolder;
+    
+}
+.submit{
+    background-image: radial-gradient(rgb(253, 93, 93),rgb(2, 2, 53));
+    height: 40px;
+    width: 150px;
+    margin-left: 90px;
+    margin-top: 10px;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.submit:hover{
+    background-image: radial-gradient(rgb(2, 2, 53),rgb(253, 93, 93));
+}
+.box-2{
+    background-image: url(./img-3.webp);
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+
+}
+.inbox{
+    background-image: url(./img-1.jpg);
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    height: 60px;
+    border-radius: 20px;
+    
+}
+.backbtn{
+    background-image: radial-gradient(rgb(253, 93, 93),rgb(2, 2, 53));
+    height: 40px;
+    width: 150px;
+    margin-left: 45%;
+    margin-top: 10px;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.backbtn:hover{
+    background-image: radial-gradient(rgb(2, 2, 53),rgb(253, 93, 93));
+}
+    
+
